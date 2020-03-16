@@ -1,8 +1,4 @@
-# About
-
 This dashboard provides a way for our community to track progress and next steps on our projects.
-
-# Current projects
 
 ## Big Picture
 - [Success Metrics & Goals](https://www.reddit.com/r/lispadvocates/comments/fi89ne/success_metrics_goals/)
