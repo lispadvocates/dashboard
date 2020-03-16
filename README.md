@@ -21,4 +21,4 @@ This dashboard provides a way for our community to track progress and next steps
 
 - [Project: Establish YouTube and Radio presence for Lisp Advocates](https://www.reddit.com/r/lispadvocates/comments/fiuz6m/project_establish_youtube_and_radio_presence_for/)
 
-- [Project: Conference Talks](
+- [Project: Conference Talks](https://www.reddit.com/r/lispadvocates/comments/fiw75t/project_conference_talks/)
