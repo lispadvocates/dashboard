@@ -14,7 +14,7 @@ This dashboard provides a way for our community to track progress and next steps
 
 - [Project: Common Lisp for the Unassuming Client](https://www.reddit.com/r/lispadvocates/comments/fje57v/project_common_lisp_for_the_unassuming_client/)
 
-## Ministry of Propaganda
+## Marketing
 - ["I am Jeff, from Lisp Advocates"](https://www.reddit.com/r/lispadvocates/comments/fieoeb/i_am_jeff_from_lisp_advocates/)
 
 - [Project: Establish an automated Lisp Advocates Twitch channel](https://www.reddit.com/r/lispadvocates/comments/fio3z9/project_establish_an_automated_lisp_advocates/)
