@@ -14,6 +14,9 @@ This dashboard provides a way for our community to track progress and next steps
 
 - [Project: Common Lisp for the Unassuming Client](https://www.reddit.com/r/lispadvocates/comments/fje57v/project_common_lisp_for_the_unassuming_client/)
 
+### Hardware
+- [Project: Space Advocate](https://www.reddit.com/r/lispadvocates/comments/fkcj0s/project_space_advocate/)
+
 ### Marketing
 - ["I am Jeff, from Lisp Advocates"](https://www.reddit.com/r/lispadvocates/comments/fieoeb/i_am_jeff_from_lisp_advocates/)
 
