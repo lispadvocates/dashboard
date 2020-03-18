@@ -17,6 +17,8 @@ This dashboard provides a way for our community to track progress and next steps
 ### Hardware
 - [Project: Space Advocate](https://www.reddit.com/r/lispadvocates/comments/fkcj0s/project_space_advocate/)
 
+   - [Non-split many-modifiers function-row](https://www.reddit.com/r/lispadvocates/comments/fkij0w/keyboard_designer/)
+
 ### Marketing
 - ["I am Jeff, from Lisp Advocates"](https://www.reddit.com/r/lispadvocates/comments/fieoeb/i_am_jeff_from_lisp_advocates/)
 
