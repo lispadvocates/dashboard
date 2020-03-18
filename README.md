@@ -7,14 +7,14 @@ This dashboard provides a way for our community to track progress and next steps
 
 - [Tell us your Remote Success story!](https://www.reddit.com/r/lispadvocates/comments/ficdvx/tell_us_you_remote_success_story/)
 
-### Engineering
+### Software Engineering
 - [Poster Child Project](https://www.reddit.com/r/lispadvocates/comments/fid0pn/poster_child_project/)
 
 - [Feasibility: Low barrier of entry Value Proposition for the Web (Call to experts)](https://www.reddit.com/r/lispadvocates/comments/fib2jj/feasibility_low_barrier_of_entry_value/)
 
 - [Project: Common Lisp for the Unassuming Client](https://www.reddit.com/r/lispadvocates/comments/fje57v/project_common_lisp_for_the_unassuming_client/)
 
-### Hardware
+### Hardware Engineering
 - [Project: Space Advocate](https://www.reddit.com/r/lispadvocates/comments/fkcj0s/project_space_advocate/)
 
    - [Non-split many-modifiers function-row](https://www.reddit.com/r/lispadvocates/comments/fkij0w/keyboard_designer/)
