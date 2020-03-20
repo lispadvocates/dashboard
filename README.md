@@ -1,3 +1,5 @@
+## Dashboard
+
 This dashboard provides a way for our community to track progress and next steps on our projects.
 
 ### Big Picture
@@ -30,3 +32,6 @@ This dashboard provides a way for our community to track progress and next steps
 
 ### Education
 - [Project: Repl-side Education](https://www.reddit.com/r/lispadvocates/comments/fk40fg/project_replside_education/)
+
+## Contribute to our colleagues' projects
+- [Ultralisp](https://ultralisp.org/) by [u/svetlyak40wt](https://twitter.com/svetlyak40wt/)
