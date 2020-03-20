@@ -39,5 +39,5 @@ This dashboard provides a way for our community to track progress and next steps
 - [Project: Show Off Your Project](https://www.reddit.com/r/lispadvocates/comments/flkkue/project_show_off_your_project/)
 
 ## Contribute to our colleagues' projects
-- [Ultralisp](https://ultralisp.org/) by [u/svetlyak40wt](https://reddit.com/u/svetlyak40wt) - [Github](https://github.com/svetlyak40wt)[Twitter](https://twitter.com/svetlyak40wt/) [Patreon](https://www.patreon.com/ultralisp)
-- [Lisp Cookbook](http://lispcookbook.github.io/cl-cookbook/) [by](https://github.com/LispCookbook/cl-cookbook/graphs/contributors) [u/dzecniv](https://reddit.com/u/dzecniv) - [vindarel on Github](https://github.com/vindarel) [Blog: Lisp journey](https://lisp-journey.gitlab.io/) [Liberapay](https://liberapay.com/vindarel/)
+- [Ultralisp](https://ultralisp.org/) by [u/svetlyak40wt](https://reddit.com/u/svetlyak40wt):     [Github](https://github.com/svetlyak40wt) - [Twitter](https://twitter.com/svetlyak40wt/) - [Patreon](https://www.patreon.com/ultralisp)
+- [Lisp Cookbook](http://lispcookbook.github.io/cl-cookbook/) [by](https://github.com/LispCookbook/cl-cookbook/graphs/contributors) [u/dzecniv](https://reddit.com/u/dzecniv):    [vindarel on Github](https://github.com/vindarel) - [Blog: Lisp journey](https://lisp-journey.gitlab.io/) - [Liberapay](https://liberapay.com/vindarel/)
