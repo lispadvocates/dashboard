@@ -7,8 +7,6 @@ This dashboard provides a way for our community to track progress and next steps
 
 - [Cause: Raise Awareness This Community Exists](https://www.reddit.com/r/lispadvocates/comments/fhway7/cause_raise_awareness_this_community_exists/)
 
-- [Tell us your Remote Success story!](https://www.reddit.com/r/lispadvocates/comments/ficdvx/tell_us_you_remote_success_story/)
-
 ### Software Engineering
 - [Poster Child Project](https://www.reddit.com/r/lispadvocates/comments/fid0pn/poster_child_project/)
 
@@ -22,6 +20,8 @@ This dashboard provides a way for our community to track progress and next steps
    - [Non-split many-modifiers function-row](https://www.reddit.com/r/lispadvocates/comments/fkij0w/keyboard_designer/)
 
 ### Marketing
+- [Project: Breadcrumbs](https://www.reddit.com/r/lispadvocates/comments/fljwui/project_breadcrumbs/)
+
 - ["I am Jeff, from Lisp Advocates"](https://www.reddit.com/r/lispadvocates/comments/fieoeb/i_am_jeff_from_lisp_advocates/)
 
 - [Project: Establish an automated Lisp Advocates Twitch channel](https://www.reddit.com/r/lispadvocates/comments/fio3z9/project_establish_an_automated_lisp_advocates/)
@@ -32,6 +32,11 @@ This dashboard provides a way for our community to track progress and next steps
 
 ### Education
 - [Project: Repl-side Education](https://www.reddit.com/r/lispadvocates/comments/fk40fg/project_replside_education/)
+
+### Networking
+- [Tell us your Remote Success story!](https://www.reddit.com/r/lispadvocates/comments/ficdvx/tell_us_you_remote_success_story/)
+
+- [Project: Show Off Your Project](https://www.reddit.com/r/lispadvocates/comments/flkkue/project_show_off_your_project/)
 
 ## Contribute to our colleagues' projects
 - [Ultralisp](https://ultralisp.org/) by [u/svetlyak40wt](https://twitter.com/svetlyak40wt/)
