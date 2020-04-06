@@ -20,6 +20,8 @@ This dashboard provides a way for our community to track progress and next steps
    - [Non-split many-modifiers function-row](https://www.reddit.com/r/lispadvocates/comments/fkij0w/keyboard_designer/)
 
 ### Marketing
+- [Appear Good For Secretly Lisp Reasons](https://www.reddit.com/r/lispadvocates/comments/fvp8fv/appear_good_for_secretly_evil_reasons/)
+
 - [Project: Breadcrumbs](https://www.reddit.com/r/lispadvocates/comments/fljwui/project_breadcrumbs/)
 
 - ["I am Jeff, from Lisp Advocates"](https://www.reddit.com/r/lispadvocates/comments/fieoeb/i_am_jeff_from_lisp_advocates/)
