@@ -36,6 +36,8 @@ This dashboard provides a way for our community to track progress and next steps
 - [Project: Repl-side Education](https://www.reddit.com/r/lispadvocates/comments/fk40fg/project_replside_education/)
 
 ### Networking
+- [Lisp Interviews](https://www.reddit.com/r/lispadvocates/comments/fwuuqx/announcing_lisp_interviews/)
+
 - [Tell us your Remote Success story!](https://www.reddit.com/r/lispadvocates/comments/ficdvx/tell_us_you_remote_success_story/)
     - [u/dzecniv](https://reddit.com/u/dzecniv/): [I have worked in Common Lisp remotely. Here's my incredible story.](https://www.reddit.com/r/lispadvocates/comments/fopbgn/i_have_worked_in_common_lisp_remotely_heres_my/)
 
