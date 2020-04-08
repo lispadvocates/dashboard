@@ -5,6 +5,8 @@ This dashboard provides a way for our community to track progress and next steps
 ### Big Picture
 - [Success Metrics & Goals](https://www.reddit.com/r/lispadvocates/comments/fi89ne/success_metrics_goals/)
 
+- [How It All Began](https://www.reddit.com/r/lispadvocates/comments/ftxwzt/lisp_advocates_how_it_all_began/)
+
 - [Cause: Raise Awareness This Community Exists](https://www.reddit.com/r/lispadvocates/comments/fhway7/cause_raise_awareness_this_community_exists/)
 
 ### Software Engineering
