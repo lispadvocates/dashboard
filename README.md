@@ -7,8 +7,6 @@ This dashboard provides a way for our community to track progress and next steps
 
 - [How It All Began](https://www.reddit.com/r/lispadvocates/comments/ftxwzt/lisp_advocates_how_it_all_began/)
 
-- [Cause: Raise Awareness This Community Exists](https://www.reddit.com/r/lispadvocates/comments/fhway7/cause_raise_awareness_this_community_exists/)
-
 ### Networking
 - [Lisp Interviews](https://www.reddit.com/r/lispadvocates/comments/fwuuqx/announcing_lisp_interviews/)
 
@@ -18,17 +16,20 @@ This dashboard provides a way for our community to track progress and next steps
 - [Project: Show Off Your Project](https://www.reddit.com/r/lispadvocates/comments/flkkue/project_show_off_your_project/)
 
 ### Marketing
+- [Cause: Raise Awareness This Community Exists](https://www.reddit.com/r/lispadvocates/comments/fhway7/cause_raise_awareness_this_community_exists/)
+
 - [Appear Good For Secretly Lisp Reasons](https://www.reddit.com/r/lispadvocates/comments/fvp8fv/appear_good_for_secretly_evil_reasons/)
 
-- [Project: Breadcrumbs](https://www.reddit.com/r/lispadvocates/comments/fljwui/project_breadcrumbs/)
 
-- ["I am Jeff, from Lisp Advocates"](https://www.reddit.com/r/lispadvocates/comments/fieoeb/i_am_jeff_from_lisp_advocates/)
 
 - [Project: Establish an automated Lisp Advocates Twitch channel](https://www.reddit.com/r/lispadvocates/comments/fio3z9/project_establish_an_automated_lisp_advocates/)
 
 - [Project: Establish YouTube and Radio presence for Lisp Advocates](https://www.reddit.com/r/lispadvocates/comments/fiuz6m/project_establish_youtube_and_radio_presence_for/)
 
+- ["I am Jeff, from Lisp Advocates"](https://www.reddit.com/r/lispadvocates/comments/fieoeb/i_am_jeff_from_lisp_advocates/)
+
 - [Project: Conference Talks](https://www.reddit.com/r/lispadvocates/comments/fiw75t/project_conference_talks/)
+
 
 ### Education
 - [Project: Repl-side Education](https://www.reddit.com/r/lispadvocates/comments/fk40fg/project_replside_education/)
