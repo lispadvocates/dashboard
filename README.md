@@ -3,6 +3,8 @@
 This dashboard provides a way for our community to track progress and next steps on our projects.
 
 ### Big Picture
+- [Lisp Advocates' Vision](https://www.reddit.com/r/lispadvocates/comments/g70zt6/lisp_advocates_vision/)
+
 - [Success Metrics & Goals](https://www.reddit.com/r/lispadvocates/comments/fi89ne/success_metrics_goals/)
 
 - [How It All Began](https://www.reddit.com/r/lispadvocates/comments/ftxwzt/lisp_advocates_how_it_all_began/)
